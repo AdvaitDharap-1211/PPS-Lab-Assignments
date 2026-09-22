@@ -1,6 +1,7 @@
 #include <studio.h>
 
-int main() {
+int main() 
+{
     printf("\"C Programing\"");
     return 0;
 }    
