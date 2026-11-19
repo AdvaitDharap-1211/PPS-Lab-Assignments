@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main() {
     int n, i;
     int id[50];
