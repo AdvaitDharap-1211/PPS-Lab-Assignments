@@ -34,7 +34,7 @@ int main() {
             sum[i][j] = sensor1[i][j] + sensor2[i][j] + sensor3[i][j];
         }
     }
-[9:07 pm, 22/9/2026] Advait Dharap: printf("\nResultant Matrix:\n");
+ printf("\nResultant Matrix:\n");
     for(i = 0; i < r; i++) {
         for (j = 0; j < c; j++) {
             printf("%d\t", sum[i][j]);
